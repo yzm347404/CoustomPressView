@@ -20,6 +20,7 @@
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1q7-Pi-ue8">
                                 <rect key="frame" x="120" y="227" width="64" height="42"/>
+                                <color key="backgroundColor" red="1" green="0.11637002504814353" blue="0.16905889031839205" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="42" id="irr-iu-Rtf"/>
                                 </constraints>
@@ -30,7 +31,7 @@
                             </button>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="Jet-pd-V7U">
                                 <rect key="frame" x="36" y="44" width="248" height="128"/>
-                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <color key="backgroundColor" red="0.15084002299057309" green="1" blue="0.11628104850406362" alpha="1" colorSpace="calibratedRGB"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="128" id="weg-bf-xyM"/>
                                 </constraints>
